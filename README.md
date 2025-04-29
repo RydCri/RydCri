@@ -1,5 +1,5 @@
 <main>
- <h4>Hello, I'm Ryder </h4>
+ <h4>Hello, I'm Ryder ✋</h4>
  <p>I'm a Fullstack Developer, let's build something cool.</p>
  <hr>
  <h3>Projects:</h3>
