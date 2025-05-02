@@ -13,7 +13,7 @@
 <div style="margin:2px;">
    <a href="https://github.com/RydCri/JobScraper">➤[JobScraper]</a>
  <br>
- <p>Straightforward. Scrape jobs posts from popular job sites, extract desired keywords view NER and sentiment analysis.</p>
+ <p>Straightforward. Scrape jobs posts from popular job sites, extract desired keywords, view NER (Named Entity Recognition) and sentiment analysis.</p>
 
 </div>
 <div style="margin:2px;">
